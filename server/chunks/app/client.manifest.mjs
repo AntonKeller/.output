@@ -6,7 +6,7 @@ const client_manifest = {
     "file": "carousel.KHeXM_GL.css",
     "src": "_carousel.es.!~{009}~.js"
   },
-  "_carousel.es.XDQf1JH1.js": {
+  "_carousel.es.7CJJjGVh.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
@@ -14,7 +14,7 @@ const client_manifest = {
     "css": [
       "carousel.KHeXM_GL.css"
     ],
-    "file": "carousel.es.XDQf1JH1.js",
+    "file": "carousel.es.7CJJjGVh.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -32,7 +32,7 @@ const client_manifest = {
     "file": "ev-footer.UknO1shV.css",
     "src": "_ev-footer.!~{00a}~.js"
   },
-  "_ev-footer.pRx9370T.js": {
+  "_ev-footer.aWJvsGYq.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
@@ -40,7 +40,7 @@ const client_manifest = {
     "css": [
       "ev-footer.UknO1shV.css"
     ],
-    "file": "ev-footer.pRx9370T.js",
+    "file": "ev-footer.aWJvsGYq.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -51,12 +51,12 @@ const client_manifest = {
     "prefetch": true,
     "preload": true
   },
-  "_vue.f36acd1f.VTMuMJW8.js": {
+  "_vue.f36acd1f.6-IV-t3-.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "vue.f36acd1f.VTMuMJW8.js",
+    "file": "vue.f36acd1f.6-IV-t3-.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -66,10 +66,10 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "default.Hr-yQssa.js",
+    "file": "default.oxhv2O7P.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_ev-footer.pRx9370T.js"
+      "_ev-footer.aWJvsGYq.js"
     ],
     "isDynamicEntry": true,
     "src": "layouts/default.vue"
@@ -80,10 +80,10 @@ const client_manifest = {
     "prefetch": true,
     "preload": true,
     "css": [],
-    "file": "error-404.hm09MsI9.js",
+    "file": "error-404.B0kcZA5w.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_vue.f36acd1f.VTMuMJW8.js"
+      "_vue.f36acd1f.6-IV-t3-.js"
     ],
     "isDynamicEntry": true,
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue"
@@ -100,9 +100,9 @@ const client_manifest = {
     "prefetch": true,
     "preload": true,
     "css": [],
-    "file": "error-500.Ov0dWXHm.js",
+    "file": "error-500.1bp9kAPe.js",
     "imports": [
-      "_vue.f36acd1f.VTMuMJW8.js",
+      "_vue.f36acd1f.6-IV-t3-.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -127,7 +127,7 @@ const client_manifest = {
       "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
       "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
     ],
-    "file": "entry.KK7znyb5.js",
+    "file": "entry.fByiAtk_.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js",
     "_globalCSS": true
@@ -144,9 +144,9 @@ const client_manifest = {
     "prefetch": true,
     "preload": true,
     "css": [],
-    "file": "index.42O5IYt5.js",
+    "file": "index.G1hFwj6F.js",
     "imports": [
-      "_carousel.es.XDQf1JH1.js",
+      "_carousel.es.7CJJjGVh.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -164,9 +164,9 @@ const client_manifest = {
     "prefetch": true,
     "preload": true,
     "css": [],
-    "file": "rating.l3wwslKZ.js",
+    "file": "rating.ZydyP7dv.js",
     "imports": [
-      "_carousel.es.XDQf1JH1.js",
+      "_carousel.es.7CJJjGVh.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -184,9 +184,9 @@ const client_manifest = {
     "prefetch": true,
     "preload": true,
     "css": [],
-    "file": "services.gfRlD5sQ.js",
+    "file": "services.5PiG5kSz.js",
     "imports": [
-      "_ev-footer.pRx9370T.js",
+      "_ev-footer.aWJvsGYq.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
